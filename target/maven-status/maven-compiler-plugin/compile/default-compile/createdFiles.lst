@@ -1,0 +1,14 @@
+carshare\PointCanceled.class
+carshare\Offered.class
+carshare\PointApplication.class
+carshare\PointCancellationRepository.class
+carshare\PointCancellationController.class
+carshare\config\kafka\KafkaProcessor.class
+carshare\PointCancellation.class
+carshare\PointRepository.class
+carshare\PointController.class
+carshare\AbstractEvent.class
+carshare\AbstractEvent$1.class
+carshare\PolicyHandler.class
+carshare\Shipped.class
+carshare\Point.class
